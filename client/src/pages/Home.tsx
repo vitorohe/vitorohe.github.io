@@ -139,7 +139,7 @@ const galleryPhotos = [
   { src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663591457235/MySxKRfCDsfqkdSb.jpeg", title: "Colour in bloom", note: "flower / centre" },
   { src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663591457235/DzYYMTkQaGKFMKQE.jpeg", title: "Quiet beginnings", note: "buds / backlight" },
   { src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663591457235/xwhKxWsMNIZzUHDR.webp", title: "Iridescent visitor", note: "fly / leaf" },
-  { src: "https://files.manuscdn.com/search-media/310519663591457235/93F9kVDUKjL0eD5Ds2ZMvs/kHomUP6iHjP4gC7UFyCiAG.jpg", title: "Green architecture", note: "leaf / structure" },
+  { src: "https://files.manuscdn.com/user_upload_by_module/session_file/310519663591457235/xHaUlWpodtMMmdpg.jpeg", title: "Winter colour", note: "berry / water drop" },
 ];
 
 function ExternalLink({ href, children, className = "" }: { href: string; children: React.ReactNode; className?: string }) {
